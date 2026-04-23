@@ -10,7 +10,7 @@ I’m passionate about scientific curation, open data, data analysis, data visua
 - 🔭 I’m currently working on [BugSigDB](https://github.com/waldronlab/BugSigDBcuration), curating microbiome signatures from scientific papers. 
 - 🌱 I’m currently expanding my skills in advanced bioinformatics workflows and specialized data visualization for scientific research.
 - 👯 I’m looking to collaborate on open science projects that bridge microbiome research and data analytics.
-- 📫 How to reach me: [www.linkedin.com/in/light-a-942628360].
+- 📫 How to reach me: [www.linkedin.com/in/light-amadi-942628360].
 - ⚡ Fun fact: I first joined GitHub to contribute to BugSigDB before creating my own personal repositories.
 
 ## 🎓 Certifications
